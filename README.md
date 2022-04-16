@@ -14,6 +14,8 @@ The statistical analysis of interest is a missing data technique for augmenting 
 
 A more extensive compilation of the R and SAS scripts written for this project is available at https://osf.io/uqdg5/?view_only=4bb97ffdd542422a9513ee5d8100a60f
 
+The written report is stored above as a Word document.
+
 A small compilation of the R and SAS scripts written for this project is stored above. 
 
 * An R script for simulating the data, induced the missing values, and applying the missing data technique is stored above for one of the simulation conditions ("simampimpUNIX.R). The simulation condition presented is the one for which figures were presented in the body of the written report.
