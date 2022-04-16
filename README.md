@@ -1,4 +1,4 @@
-# Generating Evidence Based Advice for Analysts
+# Generating Evidence Based Guidance for Analysts
 
 
 
