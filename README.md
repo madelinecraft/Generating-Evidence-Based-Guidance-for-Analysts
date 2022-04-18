@@ -6,7 +6,7 @@ The goal of this project was to conduct a study explicating the conditions under
 
 ## Application of Results:
 
-We wrote a report detailing our study and providing evidence-based guidance to analysts wishing to implement the statistical analysis of interest in the future. 
+We wrote a report detailing our study and providing evidence-based guidance to analysts wishing to implement the statistical analysis of interest. 
 
 ## Details of the Analysis:
 
